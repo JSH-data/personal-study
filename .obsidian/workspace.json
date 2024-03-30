@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,51 @@
   },
   "active": "ef9ef8745048d909",
   "lastOpenFiles": [
-    "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
-    "this must.md",
-    "모던 리액트 DeepDive",
-    "README.md"
+    "Design Pattern/Strategy Pattern.md",
+    "Design Pattern/MVP 패턴.md",
+    "Design Pattern/Library와 Framework.md",
+    "Design Pattern/Creational Pattern.md",
+    "Design Pattern/MVC 패턴.md",
+    "Design Pattern/의존성 주입과 전략 패턴의 차이.md",
+    "Design Pattern/Observer Pattern.md",
+    "Design Pattern/Flux Pattern.md",
+    "Design Pattern/Architecture Pattern.md",
+    "Design Pattern/Factory Pattern.md",
+    "Design Pattern/Behavioral Pattern.md",
+    "Design Pattern/Structural Pattern.md",
+    "Design Pattern/Singleton Pattern.md",
+    "Design Pattern/Proxy Pattern.md",
+    "Design Pattern/Context.md",
+    "Design Pattern/MVVM 패턴.md",
+    "Design Pattern/Iterator Pattern.md",
+    "Design Pattern/디자인 패턴.md",
+    "Design Pattern/What is Design Pattern.md",
+    "Design Pattern/DI(Dependency Injection).md",
+    "Design Pattern",
+    "Cloud/AWS Serverless 231028.md",
+    "Cloud/온프레미스 VS 오프프레미스.md",
+    "Cloud/Virtual Machine.md",
+    "Cloud",
+    "Typescript/never 타입.md",
+    "Typescript/unknown 타입.md",
+    "Typescript/Template Literal Type.md",
+    "Typescript",
+    "Docker",
+    "Database/context.mdb",
+    "Database",
+    "Books/우아한 타입스크립트/Database/context.mdb",
+    "Books/우아한 타입스크립트/Database",
+    "Books/우아한 타입스크립트",
+    "Books/React Deep Dive",
+    "assets/Pasted image 20231114184231.png",
+    "assets/Pasted image 20231104221301.png",
+    "assets/Pasted image 20240316220614.png",
+    "assets/Pasted image 20231119145903.png",
+    "assets/Screenshot 2024-03-17 at 9.02.42 PM.png",
+    "assets/Screenshot 2023-12-03 at 4.03.01 PM.png",
+    "assets/Pasted image 20231119163736.png",
+    "assets/Pasted image 20231119172405.png",
+    "assets/Screenshot 2023-12-05 at 1.44.04 AM.png",
+    "assets/Pasted image 20231119151742.png"
   ]
 }
