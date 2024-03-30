@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6f525640d8d636",
+        "id": "e9cfafca0f0a937c",
         "type": "tabs",
         "children": [
           {
-            "id": "c87a05e6ebda13d6",
+            "id": "ef9ef8745048d909",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c87a05e6ebda13d6",
+  "active": "ef9ef8745048d909",
   "lastOpenFiles": [
+    "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md",
+    "this must.md",
     "모던 리액트 DeepDive",
-    "README.md",
-    "모던 리액트 DeepDive/1.7 선택이 아닌 필수, 타입스크립트.md"
+    "README.md"
   ]
 }
