@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1cd56cf68f42567",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d61735ffebe16697",
+  "active": "e1cd56cf68f42567",
   "lastOpenFiles": [
     "모던 리액트 DeepDive",
     "README.md",
