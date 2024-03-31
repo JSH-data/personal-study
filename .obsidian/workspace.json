@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/우아한 타입스크립트/8장.md",
+                "file": "Career/Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/우아한 타입스크립트/8장.md",
+                "file": "Career/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/우아한 타입스크립트/8장.md",
+                "file": "Career/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/우아한 타입스크립트/8장.md"
+                "file": "Career/Resume.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "ef9ef8745048d909",
   "lastOpenFiles": [
+    "Books/우아한 타입스크립트/8장.md",
     "Career/Resume.md",
     "2024-03-31.md",
-    "Books/우아한 타입스크립트/8장.md",
     "Career",
     "Spaces",
     "README.md",
