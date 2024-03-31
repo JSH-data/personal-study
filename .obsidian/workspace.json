@@ -156,10 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bfa71403ca8edb2",
+  "active": "ef9ef8745048d909",
   "lastOpenFiles": [
-    "Spaces",
+    "Career/Resume.md",
+    "2024-03-31.md",
     "Books/우아한 타입스크립트/8장.md",
+    "Career",
+    "Spaces",
     "README.md",
     "Design Pattern/Strategy Pattern.md",
     "Design Pattern/MVP 패턴.md",
@@ -184,7 +187,6 @@
     "Design Pattern",
     "Cloud/AWS Serverless 231028.md",
     "Cloud/온프레미스 VS 오프프레미스.md",
-    "Cloud/Virtual Machine.md",
     "Cloud",
     "Typescript",
     "Docker",
@@ -192,8 +194,6 @@
     "Database",
     "Books/우아한 타입스크립트/Database/context.mdb",
     "Books/우아한 타입스크립트/Database",
-    "Books/우아한 타입스크립트",
-    "Books/React Deep Dive",
     "assets/Pasted image 20231114184231.png",
     "assets/Pasted image 20231104221301.png",
     "assets/Pasted image 20240316220614.png",
